@@ -8,12 +8,12 @@
     Пиши код привычными словами на родном языке — получай чистые стандартные файлы Python, Lua, JavaScript, HTML и CSS.
   </p>
 
-  <p>
-    <img src="https://shields.io" alt="Version" />
-    <img src="https://shields.io" alt="Author" />
-    <img src="https://shields.io" alt="Python" />
-    <img src="https://shields.io" alt="Windows" />
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/Version-v0.2.0-blue?style=for-the-badge" alt="Version" />
+  <img src="https://img.shields.io/badge/Author-ExLaCo-red?style=for-the-badge" alt="Author" />
+  <img src="https://img.shields.io/badge/Python-3.8+-yellow?style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge" alt="Windows" />
+</p>
 </div>
 
 ---
